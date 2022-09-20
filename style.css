@@ -2,7 +2,6 @@
   background-color: #0066ff;
   color: aliceblue;
   padding-bottom: 1rem;
-  padding-top: 1rem;
 }
 
 .nav-tabs {
@@ -17,18 +16,18 @@
 
 #profil {
   padding-top: 5rem;
-padding-bottom: 6rm;
+padding-bottom: 6rem;
 }
 
 #project {
   padding-top: 6rem;
-padding-bottom: 6rm;
+padding-bottom: 6rem;
 
 }
 
 #contact {
   padding-top: 6rem;
-padding-bottom: 6rm;
+padding-bottom: 6rem;
 }
 
 .nav-tabs button {
