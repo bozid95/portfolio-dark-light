@@ -14,7 +14,7 @@ $.ajax({
           data.title +
           '</button></p><div style="min-height:auto;"><div class="collapse collapse-horizontal" id="collapseWidthExample' +
           i +
-          '"> <div class="card card-body" style="width: auto;">' +
+          '"> <div class="card card-body text-start" style="width: auto;">' +
           data.content +
           "</div> </div></div>"
       );
