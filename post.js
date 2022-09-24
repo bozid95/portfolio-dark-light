@@ -16,7 +16,7 @@ $.ajax({
           i +
           '"> <div class="card card-body text-start" style="width: auto;">' +
           data.content +
-          "</div> </div></div>"
+          "</div> </div></div><p>"
       );
     });
   },
